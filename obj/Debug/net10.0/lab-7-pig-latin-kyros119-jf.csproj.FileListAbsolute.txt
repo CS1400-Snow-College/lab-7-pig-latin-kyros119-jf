@@ -1,0 +1,15 @@
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\bin\Debug\net10.0\lab-7-pig-latin-kyros119-jf.exe
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\bin\Debug\net10.0\lab-7-pig-latin-kyros119-jf.deps.json
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\bin\Debug\net10.0\lab-7-pig-latin-kyros119-jf.runtimeconfig.json
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\bin\Debug\net10.0\lab-7-pig-latin-kyros119-jf.dll
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\bin\Debug\net10.0\lab-7-pig-latin-kyros119-jf.pdb
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.AssemblyInfoInputs.cache
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.AssemblyInfo.cs
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.csproj.CoreCompileInputs.cache
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.sourcelink.json
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.dll
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\refint\lab-7-pig-latin-kyros119-jf.dll
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.pdb
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\lab-7-pig-latin-kyros119-jf.genruntimeconfig.cache
+C:\Users\kyros\my-code-dir\lab-7-pig-latin-kyros119-jf\obj\Debug\net10.0\ref\lab-7-pig-latin-kyros119-jf.dll
