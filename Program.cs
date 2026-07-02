@@ -6,3 +6,10 @@
 Console.WriteLine("Let's switch-up your phrase!");
 Console.WriteLine("This program will turn your message into Pig Latin and then encrypt it.");
 Console.WriteLine();
+
+// Ask the user for a message.
+Console.Write("Please enter the message: ");
+string message = Console.ReadLine() ?? "";
+
+// Split the message into separate words.
+string[] words = message.Split(' ');
